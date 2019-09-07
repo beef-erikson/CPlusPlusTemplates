@@ -1,5 +1,6 @@
 #include <iostream>
 
+// Note this would normally go in header file
 template<typename T>
 T Max(T x, T y)
 {
