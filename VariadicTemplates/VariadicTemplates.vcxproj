@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{BE92E8BE-E9FB-4C58-8140-2D4D5BCC4A63}</ProjectGuid>
+    <ProjectGuid>{A46C6B51-59D0-43B3-8032-1B7F9A739105}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Assignment2</RootNamespace>
+    <RootNamespace>VariadicTemplates</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,11 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Assignment2.cpp" />
-    <ClCompile Include="Templates.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Templates.h" />
+    <ClCompile Include="VariadicTemplates.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
