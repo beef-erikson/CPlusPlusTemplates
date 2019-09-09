@@ -9,3 +9,6 @@
 [Non-type Template Arguments](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/NonTypeTemplateArguments/NonTypeTemplateArguments.cpp)<br />
 [Assignment 2](https://github.com/beef-erikson/CPlusPlusTemplates/tree/master/Assignment2)<br />
 [Variadic Templates](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/VariadicTemplates/VariadicTemplates.cpp)
+
+## Class Templates
+[Class Templates](https://github.com/beef-erikson/CPlusPlusTemplates/tree/master/ClassTemplates)<br />
