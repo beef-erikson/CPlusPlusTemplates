@@ -11,5 +11,5 @@
 [Variadic Templates](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/VariadicTemplates/VariadicTemplates.cpp)
 
 ## Class Templates
-[Class Templates](https://github.com/beef-erikson/CPlusPlusTemplates/tree/master/ClassTemplates.cpp)<br />
+[Class Templates](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/ClassTemplates/ClassTemplates.cpp)<br />
 [Class Templates Explicit Specialization](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/ClassTemplatesExplicitSpecialization/ClassTemplatesExplicitSpecialization.cpp)<br />
