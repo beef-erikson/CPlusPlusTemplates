@@ -52,6 +52,7 @@ Stack<T, size> Stack<T, size>::Create()
 
 int main()
 {
+	// using int as example but can use any type (float, string, etc)
 	Stack<int, 10> intStack = Stack<int, 10>::Create();
 	intStack.Push(3);
 	intStack.Push(1);
@@ -65,18 +66,6 @@ int main()
 	{
 		std::cout << intStack2.Top() << " ";
 		intStack2.Pop();
-	}
-	std::cout << std::endl;
-
-	Stack<float, 5> floatStack = Stack<float, 5>::Create();
-	floatStack.Push(2.5);
-	floatStack.Push(4.33);
-	floatStack.Push(323.223);
-
-	while (!floatStack.IsEmpty())
-	{
-		std::cout << floatStack.Top() << " ";
-		floatStack.Pop();
 	}
 	std::cout << std::endl;
 
