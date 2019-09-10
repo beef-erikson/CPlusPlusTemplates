@@ -29,7 +29,7 @@ public:
 	}
 };
 
-// Specialized template for Print member function only
+// Specialized template for Print member function only, accepts type vector<vector<int>>
 template<typename T>
 using vec = std::vector<std::vector<T>>;
 void PrettyPrinter<vec<int>>::Print()
