@@ -14,3 +14,5 @@
 [Class Templates](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/ClassTemplates/ClassTemplates.cpp)<br />
 [Class Template Explicit Specialization](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/ClassTemplatesExplicitSpecialization/ClassTemplatesExplicitSpecialization.cpp)<br />
 [Class Template Partial Specialization](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/ClassTemplatePartialSpecialization/ClassTemplatePartialSpecialization.cpp)<br />
+[Typedef and Type Aliases](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/TypeAliases/TypeAliases.cpp)<br />
+[Assignment 3](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/Assignment3/Assignment3.cpp)
