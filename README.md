@@ -12,4 +12,5 @@
 
 ## Class Templates
 [Class Templates](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/ClassTemplates/ClassTemplates.cpp)<br />
-[Class Templates Explicit Specialization](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/ClassTemplatesExplicitSpecialization/ClassTemplatesExplicitSpecialization.cpp)<br />
+[Class Template Explicit Specialization](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/ClassTemplatesExplicitSpecialization/ClassTemplatesExplicitSpecialization.cpp)<br />
+[Class Template Partial Specialization](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/ClassTemplatePartialSpecialization/ClassTemplatePartialSpecialization.cpp)<br />
