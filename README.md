@@ -1,5 +1,6 @@
 # C++ Templates
 [Udemy C++ Templates Course](https://www.udemy.com/course/beg-cpp-temp/)
+![Course certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-1R8V8SVX.jpg?l=null)
 
 ## Function Templates
 [Introduction to Templates](https://github.com/beef-erikson/CPlusPlusTemplates/blob/master/IntroToTemplates/IntroToTemplates.cpp)<br />
