@@ -34,20 +34,32 @@ template<typename T>
 using vec = std::vector<std::vector<T>>;
 void PrettyPrinter<vec<int>>::Print()
 {
-	std::cout << "{";
+
 	for (const auto& x : *m_pData)
 	{
-		std::cout << x << ",";
+		std::cout << "{";
+		for (auto i = 0; i < x.size(); i++)
+		{
+			std::cout << x[i] << std::flush;
+			if (i + 1 < x.size())
+			{
+				std::cout << ",";
+			}
+			else
+			{
+				std::cout << "}";
+			}
+		}
+		std::cout << std::endl;
 	}
-	std::cout << "}" << std::endl;
-
 }
 
 int main()
 {
+	using vec = std::vector<std::vector<int>>;
 	std::vector<std::vector<int>> vect{ { 1, 2, 3 }, { 4, 5, 6 } };
-
-	vec p1 = PrettyPrinter({ { 1, 2, 3 }, { 4, 5, 6 } });
+	PrettyPrinter<vec> p{ &vect };
+	p.Print();
 
 	return 0;
 }
